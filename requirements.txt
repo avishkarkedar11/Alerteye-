@@ -1,0 +1,6 @@
+opencv-python>=4.9
+mediapipe>=0.10.14
+numpy>=1.26
+pyserial>=3.5
+streamlit>=1.32
+pandas>=2.2
